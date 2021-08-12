@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     val number2 = 4
     val testAngka=21
     val testnama="haii"
+    val albet=221
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
