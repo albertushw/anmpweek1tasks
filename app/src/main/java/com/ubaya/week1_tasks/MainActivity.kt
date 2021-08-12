@@ -7,6 +7,7 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
     val nama = "bagus"
     val jumlah = 29
+    val tanggal = "agustus 12 2021"
 
     val number1 = 2
     val number2 = 4
