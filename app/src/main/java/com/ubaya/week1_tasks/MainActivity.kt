@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
 
     val number1 = 2
     val number2 = 4
+    val testAngka=21
+    val testnama="haii"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
