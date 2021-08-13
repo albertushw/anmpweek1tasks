@@ -9,6 +9,9 @@ class MainActivity : AppCompatActivity() {
 
     val number1 = 2
     val number2 = 4
+
+    var feat = "hello"
+    var ures = "myname"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -16,5 +19,9 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Halo $nama", Toast.LENGTH_SHORT).show()
         var hasil = number1*number2
         Toast.makeText(this, "Hasil perhitungan adalah $hasil", Toast.LENGTH_LONG).show()
+
+        while(feat!=ures){
+            ures = feat
+        }
     }
 }
