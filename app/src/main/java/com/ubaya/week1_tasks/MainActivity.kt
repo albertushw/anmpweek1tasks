@@ -49,6 +49,11 @@ class MainActivity : AppCompatActivity() {
         {
             hasil="ssssff"
         }
+        if (hasil=34)
+        {
+            hasil="ssssff"
+        }
+
 
         
     }
