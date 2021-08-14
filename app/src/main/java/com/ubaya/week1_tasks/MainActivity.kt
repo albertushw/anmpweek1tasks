@@ -41,9 +41,6 @@ class MainActivity : AppCompatActivity() {
         if (hasil=204){
             feat="wau"
         }
-        else
-        {
-            feat="asdaadsasd"
-        }
+
     }
 }
