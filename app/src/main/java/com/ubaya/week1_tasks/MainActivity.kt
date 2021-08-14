@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         if (hasil=20){
-            feat="berhasil"
+            feat="test"
         }
     }
 }
