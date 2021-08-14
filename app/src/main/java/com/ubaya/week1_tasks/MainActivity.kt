@@ -34,5 +34,9 @@ class MainActivity : AppCompatActivity() {
         while(feat!=ures){
             ures = feat
         }
+
+        if (hasil=20){
+            feat="berhasil"
+        }
     }
 }
