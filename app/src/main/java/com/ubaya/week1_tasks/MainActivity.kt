@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Halo $nama", Toast.LENGTH_SHORT).show()
         var hasil = number1*number2
         Toast.makeText(this, "Hasil perhitungan adalah $hasil", Toast.LENGTH_LONG).show()
+
+        var nambahkemaster=""
     }
 }
